@@ -2,21 +2,27 @@
   "name": "Wen AI Docs",
   "theme": "mint",
   "colors": {
-    "accent": "#6366f1",
-    "background": "#0f172a",
-    "text": "#ffffff"
+    "primary": "#6366f1"
   },
   "navigation": {
-    "logo": "/logo/logo.svg",
-    "title": "Wen AI Docs",
-    "links": [
+    "languages": [],
+    "versions": [],
+    "tabs": [],
+    "dropdowns": [],
+    "anchors": true,
+    "groups": [],
+    "pages": [
       {
-        "title": "Home",
+        "title": "Overview",
         "href": "/introduction"
       },
       {
-        "title": "GitHub",
-        "href": "https://github.com/wenlabstech"
+        "title": "Quickstart",
+        "href": "/quickstart"
+      },
+      {
+        "title": "Development",
+        "href": "/development"
       }
     ]
   },
@@ -39,14 +45,6 @@
         "ai-command-engine",
         "technical-infrastructure"
       ]
-    },
-    {
-      "section": "Use Cases",
-      "pages": []
-    },
-    {
-      "section": "Roadmap",
-      "pages": []
     },
     {
       "section": "Getting Started",
