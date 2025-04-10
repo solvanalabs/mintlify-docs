@@ -1,5 +1,25 @@
 {
+  "name": "Wen AI Docs",
   "theme": "mint",
+  "colors": {
+    "accent": "#6366f1",
+    "background": "#0f172a",
+    "text": "#ffffff"
+  },
+  "navigation": {
+    "logo": "/logo/logo.svg",
+    "title": "Wen AI Docs",
+    "links": [
+      {
+        "title": "Home",
+        "href": "/introduction"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/wenlabstech"
+      }
+    ]
+  },
   "sidebar": [
     {
       "section": "Key Features",
